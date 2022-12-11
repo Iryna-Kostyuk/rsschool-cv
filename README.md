@@ -27,5 +27,11 @@ return text;
 ## Work experience:
 
 ## Education and courses:
+* Courses:
+    + [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+    + [FreeCodeCamp](https://www.freecodecamp.org/)
+    + [IT Fundamentals for Ukrainian Switchers](https://training.epam.com/News/Items/545?lang=en)
+    + EPAM Front End for Switchers (in progress)
 
 ## Language:
+English - B1
